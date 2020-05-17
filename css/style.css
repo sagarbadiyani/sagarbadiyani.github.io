@@ -1,0 +1,53 @@
+body {
+    background-color: lightgray;
+}
+
+#Header a:hover {
+    color: white;
+}
+
+#bg-img {
+    background: url(../img/img2.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+#About {
+    margin-top: -200px;
+}
+
+#About .fa {
+    color: white;
+}
+
+#About span {
+    padding: 10px 20px;
+}
+
+#About hr {
+    border-width: 2px;
+    margin-top: 6px;
+}
+
+#Skill span {
+    padding: 10px 20px;
+}
+
+#Skill hr {
+    border-width: 2px;
+    margin-top: 6px;
+}
+
+.aaaa {
+    background-color: lightgray;
+}
+
+#Projects span {
+    padding: 10px 20px;
+}
+
+#Projects hr {
+    border-width: 2px;
+    margin-top: 6px;
+}
